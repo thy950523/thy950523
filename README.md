@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ![Metrics](/metrics.plugin.achievements.svg)
 
-![Metrics](/metrics.plugin.starlists.languages.svg)
-
-![Metrics](/metrics.plugin.starlists.svg)
+![Metrics](/metrics.plugin.languages.indepth.svg)
