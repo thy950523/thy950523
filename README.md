@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="75%">
 </div>
+
+<div align="center">
 <img src="/metrics.plugin.achievements.svg" alt="Metrics" width="75%">
+</div>
+
+<div align="center">
 <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="75%">
+</div>
 
