@@ -28,7 +28,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_only: sponsor, maintainer, octonaut
       - name: Featured star list
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.starlists.svg
           token: NOT_NEEDED
@@ -37,7 +37,7 @@ jobs:
           plugin_starlists_limit_repositories: 2
           plugin_starlists_only: TC39
       - name: Featured star list languages
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.starlists.languages.svg
           token: NOT_NEEDED
