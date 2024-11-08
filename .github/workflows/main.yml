@@ -56,5 +56,12 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5
 
 
