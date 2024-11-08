@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="50%">
 </div>
 
+<div align="center">
+<img src="/metrics.plugin.stars.svg" alt="Metrics" width="50%">
+</div>
+
