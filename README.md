@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <img src="/github-metrics.svg" alt="Metrics" width="50%">
-  <img src="/metrics.plugin.achievements.svg" alt="Metrics" width="50%">
+<div align="center">
 </div>
 
-<div align="center">
-<img src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="50%">
+<img src="./github-metrics.svg" alt="Metrics" width="40%">
+<div>
+  <img src="./metrics.plugin.achievements.svg" alt="Metrics" width="40%">
 </div>
+<img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="40%">
+<img src="./metrics.plugin.habits.facts.svg" alt="Metrics" width="40%">
+
 
 
