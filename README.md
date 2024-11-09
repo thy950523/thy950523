@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <div align="center">
 </div>
 
-<img src="./github-metrics.svg" alt="Metrics" width="40%">
+<img src="./github-metrics.svg" alt="Metrics" width="60%">
 <div>
-  <img src="./metrics.plugin.achievements.svg" alt="Metrics" width="40%">
+  <img src="./metrics.plugin.achievements.svg" alt="Metrics" width="60%">
 </div>
-<img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="40%">
-<img src="./metrics.plugin.habits.facts.svg" alt="Metrics" width="40%">
+<img src="./metrics.plugin.languages.indepth.svg" alt="Metrics" width="60%">
+<img src="./metrics.plugin.habits.facts.svg" alt="Metrics" width="60%">
 
 
 
