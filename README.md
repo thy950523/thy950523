@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="/metrics.base.svg" alt="Metrics" width="50%">
-</div>
-
-<div align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="50%">
-</div>
-
-<div align="center">
-<img src="/metrics.plugin.achievements.svg" alt="Metrics" width="60%">
+  <img src="/metrics.plugin.achievements.svg" alt="Metrics" width="50%">
 </div>
 
 <div align="center">
