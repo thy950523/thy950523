@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 252kb of code in 251 edited files across 53 commits</small>
+                <small>estimation from 293kb of code in 271 edited files across 55 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.72560577946643" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="414.72560577946643" y="0" width="45.2743942205336" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.7736075136504" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="420.7736075136504" y="0" width="39.226392486349575" height="8" fill="#c22d40"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>4.56k lines</div>
-                                <div>214 kB</div>
+                                <div>5.42k lines</div>
+                                <div>254 kB</div>
                             </small>
                         </div>
                     </section>
@@ -49,8 +49,8 @@
                                 Scala
                             </div>
                             <small>
-                                <div>547 lines</div>
-                                <div>23.3 kB</div>
+                                <div>556 lines</div>
+                                <div>23.7 kB</div>
                             </small>
                         </div>
                     </section>
